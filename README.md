@@ -41,10 +41,10 @@ Usually the fastest way to get everything up and running is install <a href="htt
 
 ## Screenshots
 
-https://github.com/rossmacc/poker-hand-comparator/blob/master/uploads/login.PNG
+![Login page](https://github.com/rossmacc/poker-hand-comparator/blob/master/uploads/login.PNG)
 
-https://github.com/rossmacc/poker-hand-comparator/blob/master/uploads/dashboard.PNG
+![Dashboard](https://github.com/rossmacc/poker-hand-comparator/blob/master/uploads/dashboard.PNG)
 
-https://github.com/rossmacc/poker-hand-comparator/blob/master/uploads/dashboard%20full.PNG
+![Dashboard full](https://github.com/rossmacc/poker-hand-comparator/blob/master/uploads/dashboard%20full.PNG)
 
-https://github.com/rossmacc/poker-hand-comparator/blob/master/uploads/upload.PNG
+![Upload](https://github.com/rossmacc/poker-hand-comparator/blob/master/uploads/upload.PNG)
